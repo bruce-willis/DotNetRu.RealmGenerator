@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="DotNetRu.Models.Realm" Version="0.1.0" />
     <PackageReference Include="DotNetRu.Models.Xml" Version="0.1.0" />
     <PackageReference Include="LibGit2Sharp" Version="0.25.3" />
     <PackageReference Include="Realm" Version="3.2.1" />

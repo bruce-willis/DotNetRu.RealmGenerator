@@ -10,7 +10,7 @@
     using LibGit2Sharp;
 
     using DotNetRu.Models.Xml;
-    using RealmGenerator.RealmModels;
+    using DotNetRu.Models.Realm;
 
     using Realms;
 
