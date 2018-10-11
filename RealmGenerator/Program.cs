@@ -9,7 +9,7 @@
 
     using LibGit2Sharp;
 
-    using RealmGenerator.Entities;
+    using DotNetRu.Models.Xml;
     using RealmGenerator.RealmModels;
 
     using Realms;
